@@ -55,7 +55,7 @@ Your feedback is welcome! If you find a bug, have a feature request, or want to 
 https://t.me/jamshidbekisroilov2000
 e-mail:jisroilov45@gmail.com
 Tel:+998 (99) 975-44-49
-- Open an issue on [GitHub Issues](https://github.com/jamshidbekisroilov/myductionary/issues)
+- Open an issue on [GitHub Issues](https://github.com/jamshidbekisroilov/myductionaryv1.0/issues)
 - Submit a pull request with improvements
 - Reach out via the Discussions tab (if enabled)
 
